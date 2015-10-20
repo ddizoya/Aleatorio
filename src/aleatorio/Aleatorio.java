@@ -1,12 +1,11 @@
 package aleatorio;
 
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.RandomAccessFile;
-import java.sql.Ref;
 
-import javax.sound.midi.Soundbank;
+
+
 
 public class Aleatorio {
 	String[] codes = { "p1", "p2", "p3" };
